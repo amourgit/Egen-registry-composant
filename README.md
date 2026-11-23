@@ -1,0 +1,1 @@
+# Egen-registry-composant
